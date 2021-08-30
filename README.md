@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swarup @swarvar
 - 👀 I’m interested in developing cross platform solutions
-- 🌱 I’m currently learning cloud platforms
+- 🌱 I’m currently learning cloud
 - 💞️ I’m looking to collaborate on community/open source projects
 - 📫 How to reach me 
 Mail me at suryawanshiswarup@gmail.com 
