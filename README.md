@@ -1,15 +1,15 @@
 <!-- Greeting -->
-# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:" />
+# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:"></img>
 
 <!--Introduction -->
-<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="125" align="left" />
-I'm Swarup! An **Innovative Programmer**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30" />, Crafting great **user experiences** <img src="https://media.giphy.com/media/3ohs7KtxtOEsDwO3GU/giphy.gif" alt="typing.gif" width="30" />. Likes to do programming to generate solutions on real world problems and implement them in user friendly ways because user satisfaction is most important! :smiley:
+<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="125" align="left"></img>
+I'm Swarup! An **Innovative Programmer**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30"></img>, Crafting great **user experiences** <img src="https://media.giphy.com/media/3ohs7KtxtOEsDwO3GU/giphy.gif" alt="typing.gif" width="30"></img>. Likes to do programming to generate solutions on real world problems and implement them in user friendly ways because user satisfaction is most important! :smiley:
 <br />Do :star2: my repos if you find my projects interesting and bring a smile on my face :slightly_smiling_face:.
-<br />:handshake: <em><b>I love connecting with different people</b> to know thier perspectives and learn from them. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30" /></em>
+<br />:handshake: <em><b>I love connecting with different people</b> to know thier perspectives and learn from them. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30"></img></em>
 
 
 <!-- gif Image -->
-<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="150" align="right" />
+<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="150" align="right"></img>
 <!-- GIFS 
 <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="100"></img>
 <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="100"></img>
@@ -40,7 +40,7 @@ I'm Swarup! An **Innovative Programmer**<img src="https://media.giphy.com/media/
 ### Languages and Tools:
 <!-- GitHub README Stats -->
  <a href="https://gitstats.me/swarvar" align="right">
-    <img width="460" height="auto" align="right" alt="swarvar's github stats" src="https://github-readme-stats.vercel.app/api?username=swarvar&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+    <img width="460" height="auto" align="right" alt="swarvar's github stats" src="https://github-readme-stats.vercel.app/api?username=swarvar&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"></img>
 </a>
 <!-- icons -->
 <br />
@@ -77,6 +77,6 @@ I'm Swarup! An **Innovative Programmer**<img src="https://media.giphy.com/media/
 
 <!-- Swarup's Quote -->
 ## Random Quote ##
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="mind_blown.gif" width="150" align="right" />
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="mind_blown.gif" width="150" align="right"></img>
 **Programming a programmable program(AI) to make programs, makes you a program to make programmable programs.**
 <br /><i>Is this a loop or hierarchy? think out of the matrix!</i>
