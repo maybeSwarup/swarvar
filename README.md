@@ -2,11 +2,11 @@
 # Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:">
 
 <!--Introduction -->
-<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="125" align="left"></img>
+<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="125" align="left">
 I'm Swarup! An **Innovative Programmer**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30">, Crafting great **user experiences** <img src="https://media.giphy.com/media/3ohs7KtxtOEsDwO3GU/giphy.gif" alt="typing.gif" width="30">. Likes to do programming to generate solutions on real world problems and implement them in user friendly ways because user satisfaction is most important! :smiley:
 <br>Do :star2: my repos if you find my projects interesting and bring a smile on my face :slightly_smiling_face:.
 <br>
-:handshake: <em><b>I love connecting with different people</b> to know thier perspectives and learn from them. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30"></img></em>
+:handshake: <em><b>I love connecting with different people</b> to know thier perspectives and learn from them. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30"></em>
 
 
 <!-- gif Image -->
