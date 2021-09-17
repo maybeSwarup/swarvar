@@ -1,12 +1,85 @@
-- 👋 Hi, I’m Swarup @swarvar
-- 👀 I’m interested in developing cross platform solutions
-- 🌱 I’m currently learning cloud
-- 💞️ I’m looking to collaborate on community/open source projects
-- 📫 How to reach me 
-Mail me at suryawanshiswarup@gmail.com 
+<!-- Greeting -->
+# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:">
+
+<!--Introduction -->
+<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="125" align="left"></img>
+I'm Swarup! An **Innovative Programmer**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30">, Crafting great **user experiences** :wrench:. Likes to do programming to generate solutions on real world problems and implement them in user friendly ways because user satisfaction is most important! :smiley:
+<br>Do :star2: my repos if you find my projects interesting and bring a smile on my face :relaxed:.
+<br>
+:handshake: <em><b>I love connecting with different people</b> to know thier perspectives and learn from them. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30"></img></em>
 
 
-<!---
-swarvar/swarvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- gif Image -->
+<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="150" align="right"></img>
+<!-- GIFS 
+<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="100"></img>
+<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="100"></img>
+<img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="100"></img>
+-->
+
+<!-- My badges -->
+[![Linkedin](https://img.shields.io/badge/-swarupsuryawanshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swarup-suryawanshi)
+[![Gmail](https://img.shields.io/badge/-suryawanshiswarup-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=suryawanshiswarup@gmail.com)
+[![CodePen](https://img.shields.io/badge/-swarvar-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/swarvar/pens/public)
+[![HackerRank](https://img.shields.io/badge/-Swarup_S-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Swarup_S)
+[![Medium](https://img.shields.io/badge/-@suryawanshiswarup-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@suryawanshiswarup)
+
+<!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=swarvar&style=flat)
+[![Github](https://img.shields.io/badge/-swarvar-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/swarvar)
+
+
+
+<!-- current status -->
+###  Things that I'm currently doing: 
+* Learning new frameworks
+* Building my network
+* Some Personal Projects
+* Searching for work
+
+<!-- GitHub README Stats -->
+ <a href="https://gitstats.me/swarvar">
+    <img width="460" height="auto" align="right" alt="swarvar's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=swarvar&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+  </a>
+ ### Languages and Tools:
+ <!-- icons -->
+ <!-- Android Development 
+ <code><a href = "https://kotlinlang.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"></a></code> -->
+<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
+ <code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
+ <code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
+
+<br>
+ <!-- Web Development -->
+<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></a></code>
+<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"></a></code>
+<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Vanilla Javascript"></a></code>
+<code><a href = "https://nodejs.org/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"></a></code>
+<code><a href = "https://www.npmjs.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"></a></code>
+<br>
+<!-- Integrated Development Environment -->
+ <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a></code>
+ <code><a href = "https://developer.android.com/studio"><img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a></code>
+<!--<code><a href = "https://www.jetbrains.com/idea/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"></a></code>
+ <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code> 
+<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png" alt="Brackets"></a></code> -->
+<br>
+<!-- Database -->
+<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Google Firbase"></a></code>
+<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></a></code>
+<br>
+<!-- other tech -->
+
+### You can download my latest resume in below formats: 
+[![word](https://img.shields.io/badge/-swarupsuryawanshi-blue?style=flat)](https://1drv.ms/w/s!AthuvGOr8bGpgm9412IkwYBYKWG5?e=NUq3EN)
+[![pdf](https://img.shields.io/badge/-swarupsuryawanshi-c14438?style=flat)](https://1drv.ms/b/s!AthuvGOr8bGpgnGnKK-SYJ-9nw4s?e=ACbm0c)
+
+
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+
+<!-- Swarup's Quote -->
+## Random Quote ##
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="mind_blown.gif" width="150" align="right"></img>
+**Programming a programmable program(AI) to make programs, makes you a program to make programmable programs.**
+<br><i>Is this a loop or hierarchy? think out of the matrix!</i>
