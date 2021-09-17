@@ -10,11 +10,11 @@ I'm Swarup! An **Innovative Programmer**<img src="https://media.giphy.com/media/
 
 
 <!-- gif Image -->
-<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="150" align="right"></img>
+<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="150" align="right">
 <!-- GIFS 
-<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="100"></img>
-<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="100"></img>
-<img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="100"></img>
+<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="100">
+<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="100">
+<img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="100">
 -->
 
 <!-- My badges -->
