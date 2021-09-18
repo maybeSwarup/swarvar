@@ -2,9 +2,12 @@
 
 <!--Introduction -->
 <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="20%" align="left"></img>
-𝙸'𝚖 𝚂𝚠𝚊𝚛𝚞𝚙! 𝙰𝚗 **𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30"></img>, **𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚐𝚛𝚎𝚊𝚝 𝚞𝚜𝚎𝚛 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜** <img src="https://media.giphy.com/media/3ohs7KtxtOEsDwO3GU/giphy.gif" alt="typing.gif" width="30"></img>. 𝙻𝚒𝚔𝚎𝚜 𝚝𝚘 𝚍𝚘 𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚝𝚘 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚘𝚗 𝚛𝚎𝚊𝚕 𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚗𝚍 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝 𝚝𝚑𝚎𝚖 𝚒𝚗 𝚞𝚜𝚎𝚛 𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚠𝚊𝚢𝚜, 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚞𝚜𝚎𝚛 𝚜𝚊𝚝𝚒𝚜𝚏𝚊𝚌𝚝𝚒𝚘𝚗 𝚒𝚜 𝚖𝚘𝚜𝚝 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝! :smiley:
-<br />𝙳𝚘 :star2: 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚒𝚏 𝚢𝚘𝚞 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚋𝚛𝚒𝚗𝚐 𝚊 𝚜𝚖𝚒𝚕𝚎 𝚘𝚗 𝚖𝚢 𝚏𝚊𝚌𝚎 :slightly_smiling_face:.
-<br />:handshake: <em><b>I like connecting with different people</b> to know their perspectives and learn from them. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30"></img></em>
+𝙸'𝚖 𝚂𝚠𝚊𝚛𝚞𝚙! 𝙰𝚗 **𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30"></img>, **𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚐𝚛𝚎𝚊𝚝 𝚞𝚜𝚎𝚛 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜** <img src="https://cdn.dribbble.com/users/470545/screenshots/1909289/media/d9ca402750c7e73a5d947322c8495c28.gif" alt="ui.gif" width="30"></img>. 𝙻𝚒𝚔𝚎𝚜 𝚝𝚘 𝚍𝚘 𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚝𝚘 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚘𝚗 𝚛𝚎𝚊𝚕 𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚗𝚍 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝 𝚝𝚑𝚎𝚖 𝚒𝚗 𝚞𝚜𝚎𝚛 𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚠𝚊𝚢𝚜, 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚞𝚜𝚎𝚛 𝚜𝚊𝚝𝚒𝚜𝚏𝚊𝚌𝚝𝚒𝚘𝚗 𝚒𝚜 𝚖𝚘𝚜𝚝 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝! :smiley:
+
+𝙳𝚘 :star2: 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚒𝚏 𝚢𝚘𝚞 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚋𝚛𝚒𝚗𝚐 𝚊 𝚜𝚖𝚒𝚕𝚎 𝚘𝚗 𝚖𝚢 𝚏𝚊𝚌𝚎 :slightly_smiling_face:.
+
+
+<p align=center>🤝 <b>I like connecting with different people</b> to know their perspectives and learn from them. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30"></img></p>
 
 
 <!-- GIFS 
@@ -13,6 +16,7 @@
 <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="100"></img>
 -->
 
+<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="150" align="right"></img>
 ### 𝙼𝚢 𝚂𝚘𝚌𝚒𝚊𝚕𝚜: ###
 <!-- My badges -->
 [![Linkedin](https://img.shields.io/badge/-swarupsuryawanshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swarup-suryawanshi)
@@ -37,8 +41,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarvar&theme=onedark" /></a>
 </p>
 
-<table>
 ### 🛠️ 𝚂𝚔𝚒𝚕𝚕𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜: ###
+<table border=2>
 <tr><td>
 <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" /></a></code>
@@ -55,17 +59,16 @@
 <code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Google Firbase"></a></code>
 <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></a></code>
 </td>
-<td><!-- gif Image -->
-<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="150" align="right"></img></td>
 </tr></table>
-
-<h4 align="center"> 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚅𝚒𝚜𝚒𝚝𝚒𝚗𝚐! :v:</h4>
 
 <!-- Swarup's Quote -->
 ## ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝: ##
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="mind_blown.gif" width="48%" align="right"></img>
-<p align="left">**Programming a programmable program(AI) to make programs, makes you a program to make programmable programs.**
-<br /><i>Is this a loop or hierarchy? think out of the matrix!</i></p>
+
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="mind_blown.gif" width="150" align="right"></img>
+**Programming a programmable program(AI) to make programs, makes you a program to make programmable programs.**
+<br /><i>Is this a loop or hierarchy? think out of the matrix!</i>
 
 ## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/swarvar?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FMumbai)
+
+<h3 align="center"> 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚅𝚒𝚜𝚒𝚝𝚒𝚗𝚐! :v:</h3>
