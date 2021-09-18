@@ -7,6 +7,7 @@
 
 ---
 <p align=center>🤝 <b>𝑰 𝒍𝒊𝒌𝒆 𝒄𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕 𝒑𝒆𝒐𝒑𝒍𝒆</b> 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒕𝒉𝒆𝒊𝒓 𝒑𝒆𝒓𝒔𝒑𝒆𝒄𝒕𝒊𝒗𝒆𝒔 𝒂𝒏𝒅 𝒍𝒆𝒂𝒓𝒏 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆𝒎. <img src="https://media.giphy.com/media/Z2nSQ2ipRfxAgg0Qvz/giphy.gif" alt="bulb.gif" width="30"></img></p>
+
 ---
 
 <!-- GIFS 
