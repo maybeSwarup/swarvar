@@ -2,13 +2,11 @@
 <!--Introduction -->
 <img src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif" alt="thinking_emoji.gif" width="20%" align="left"></img>
 𝙸'𝚖 𝚂𝚠𝚊𝚛𝚞𝚙, a𝚗 **𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛**.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30"></img>
-<br />
 **𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚐𝚛𝚎𝚊𝚝 𝚞𝚜𝚎𝚛 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜!** <img src="https://media.giphy.com/media/aJpQEYoD8yLE4/giphy.gif" width="30"></img> 𝙻𝚒𝚔𝚎𝚜 𝚝𝚘 𝚍𝚘 𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚝𝚘 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚘𝚗 𝚛𝚎𝚊𝚕 𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚗𝚍 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝 𝚝𝚑𝚎𝚖 𝚒𝚗 𝚞𝚜𝚎𝚛 𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚠𝚊𝚢𝚜, 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚞𝚜𝚎𝚛 𝚜𝚊𝚝𝚒𝚜𝚏𝚊𝚌𝚝𝚒𝚘𝚗 𝚒𝚜 𝚖𝚘𝚜𝚝 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝.
+#
+𝙳𝚘 <img src="https://media.giphy.com/media/d6LGN6MbTXEQ9ZE9u3/giphy.gif" width="25"></img> 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚒𝚏 𝚢𝚘𝚞 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚋𝚛𝚒𝚗𝚐 𝚊 𝚜𝚖𝚒𝚕𝚎 𝚘𝚗 𝚖𝚢 𝚏𝚊𝚌𝚎 :slightly_smiling_face:.
 
 <br />
-𝙳𝚘 <img src="https://media.giphy.com/media/d6LGN6MbTXEQ9ZE9u3/giphy.gif" width="20"></img> 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚒𝚏 𝚢𝚘𝚞 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚋𝚛𝚒𝚗𝚐 𝚊 𝚜𝚖𝚒𝚕𝚎 𝚘𝚗 𝚖𝚢 𝚏𝚊𝚌𝚎 :slightly_smiling_face:.
-<br />
----
 <p align=center>🤝 <b>𝑰 𝒍𝒊𝒌𝒆 𝒄𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕 𝒑𝒆𝒐𝒑𝒍𝒆</b> 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒕𝒉𝒆𝒊𝒓 𝒑𝒆𝒓𝒔𝒑𝒆𝒄𝒕𝒊𝒗𝒆𝒔 𝒂𝒏𝒅 𝒍𝒆𝒂𝒓𝒏 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆𝒎. <img src="https://media.giphy.com/media/Z2nSQ2ipRfxAgg0Qvz/giphy.gif" alt="bulb.gif" width="30"></img></p>
 
 ---
