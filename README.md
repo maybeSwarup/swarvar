@@ -1,82 +1,71 @@
-<!-- Greeting -->
-# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:"></img>
+<!--  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:"></img>
 
 <!--Introduction -->
-<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="125" align="left"></img>
-I'm Swarup! An **Innovative Programmer**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30"></img>, Crafting great **user experiences** <img src="https://media.giphy.com/media/3ohs7KtxtOEsDwO3GU/giphy.gif" alt="typing.gif" width="30"></img>. Likes to do programming to generate solutions on real world problems and implement them in user friendly ways because user satisfaction is most important! :smiley:
-<br />Do :star2: my repos if you find my projects interesting and bring a smile on my face :slightly_smiling_face:.
-<br />:handshake: <em><b>I love connecting with different people</b> to know their perspectives and learn from them. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30"></img></em>
+<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="20%" align="left"></img>
+𝙸'𝚖 𝚂𝚠𝚊𝚛𝚞𝚙! 𝙰𝚗 **𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30"></img>, **𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚐𝚛𝚎𝚊𝚝 𝚞𝚜𝚎𝚛 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜** <img src="https://media.giphy.com/media/3ohs7KtxtOEsDwO3GU/giphy.gif" alt="typing.gif" width="30"></img>. 𝙻𝚒𝚔𝚎𝚜 𝚝𝚘 𝚍𝚘 𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚝𝚘 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚘𝚗 𝚛𝚎𝚊𝚕 𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚗𝚍 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝 𝚝𝚑𝚎𝚖 𝚒𝚗 𝚞𝚜𝚎𝚛 𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚠𝚊𝚢𝚜, 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚞𝚜𝚎𝚛 𝚜𝚊𝚝𝚒𝚜𝚏𝚊𝚌𝚝𝚒𝚘𝚗 𝚒𝚜 𝚖𝚘𝚜𝚝 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝! :smiley:
+<br />𝙳𝚘 :star2: 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚒𝚏 𝚢𝚘𝚞 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚋𝚛𝚒𝚗𝚐 𝚊 𝚜𝚖𝚒𝚕𝚎 𝚘𝚗 𝚖𝚢 𝚏𝚊𝚌𝚎 :slightly_smiling_face:.
+<br />:handshake: <em><b>I like connecting with different people</b> to know their perspectives and learn from them. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30"></img></em>
 
 
-<!-- gif Image -->
-<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="150" align="right"></img>
 <!-- GIFS 
 <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="100"></img>
 <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="100"></img>
 <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="100"></img>
 -->
 
+### 𝙼𝚢 𝚂𝚘𝚌𝚒𝚊𝚕𝚜: ###
 <!-- My badges -->
 [![Linkedin](https://img.shields.io/badge/-swarupsuryawanshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swarup-suryawanshi)
 [![Gmail](https://img.shields.io/badge/-suryawanshiswarup-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=suryawanshiswarup@gmail.com)
 [![CodePen](https://img.shields.io/badge/-swarvar-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/swarvar/pens/public)
 [![HackerRank](https://img.shields.io/badge/-Swarup_S-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Swarup_S)
 [![Medium](https://img.shields.io/badge/-@suryawanshiswarup-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@suryawanshiswarup)
-
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=swarvar&style=flat)
-[![Github](https://img.shields.io/badge/-swarvar-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/swarvar)
-
----
+[![Github](https://img.shields.io/badge/-swarvar-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/swarvar) ![views](https://komarev.com/ghpvc/?username=swarvar&style=flat)
 
 <!-- current status -->
-###  Things that I'm currently doing: 
-* Learning new frameworks
-* Building my network
-* Some Personal Projects
-* Searching for work
+###  𝚃𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐: ###
+* 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
+* 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚢 𝚗𝚎𝚝𝚠𝚘𝚛𝚔
+* 𝚂𝚘𝚖𝚎 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+* 𝚂𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚏𝚘𝚛 𝚠𝚘𝚛𝚔
 
-
-### Languages and Tools:
 <!-- GitHub README Stats -->
- <a href="https://gitstats.me/swarvar" align="right">
-    <img width="460" height="auto" align="right" alt="swarvar's github stats" src="https://github-readme-stats.vercel.app/api?username=swarvar&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"></img>
-</a>
+<p align="center">
+<a href="https://gitstats.me/swarvar" align="right">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swarvar&show_icons=true&theme=dracula&include_all_commits=true"  alt="Swarup's github stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarvar&theme=onedark" /></a>
+</p>
+
+<table>
+### 🛠️ 𝚂𝚔𝚒𝚕𝚕𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜: ###
+<tr><td>
 <!-- icons -->
-<br />
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" /></a></code>
 <code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" /></a></code>
-
-<br />
  <!-- Web Development -->
+<code><a href = "https://angular.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular"></a></code>
+<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="VanillaJS" /></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" /></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" /></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Vanilla Javascript" /></a></code>
-<code><a href = "https://nodejs.org/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"></a></code>
-<code><a href = "https://www.npmjs.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"></a></code>
-<br />
 <!-- Integrated Development Environment -->
  <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a></code>
  <code><a href = "https://developer.android.com/studio"><img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a></code>
-<!--<code><a href = "https://www.jetbrains.com/idea/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"></a></code>
- <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code> 
-<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png" alt="Brackets"></a></code> -->
-<br />
 <!-- Database -->
 <code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Google Firbase"></a></code>
 <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></a></code>
-<br />
-<!-- other tech -->
+</td>
+<td><!-- gif Image -->
+<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="150" align="right"></img></td>
+</tr></table>
 
-### You can download my latest resume in below formats: 
-[![word](https://img.shields.io/badge/-Resume.docx-blue?style=flat)](https://1drv.ms/w/s!AthuvGOr8bGpgm9412IkwYBYKWG5?e=NUq3EN)
-[![pdf](https://img.shields.io/badge/-Resume.pdf-c14438?style=flat)](https://1drv.ms/b/s!AthuvGOr8bGpgnGnKK-SYJ-9nw4s?e=ACbm0c)
-
-
-<h4 align="center"> Thanks for Visiting! :v:</h4>
+<h4 align="center"> 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚅𝚒𝚜𝚒𝚝𝚒𝚗𝚐! :v:</h4>
 
 <!-- Swarup's Quote -->
-## Random Quote ##
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="mind_blown.gif" width="150" align="right"></img>
-**Programming a programmable program(AI) to make programs, makes you a program to make programmable programs.**
-<br /><i>Is this a loop or hierarchy? think out of the matrix!</i>
+## ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝: ##
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="mind_blown.gif" width="48%" align="right"></img>
+<p align="left">**Programming a programmable program(AI) to make programs, makes you a program to make programmable programs.**
+<br /><i>Is this a loop or hierarchy? think out of the matrix!</i></p>
+
+## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/swarvar?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FMumbai)
