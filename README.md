@@ -1,4 +1,5 @@
-## 𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:"></img>
+## 𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! ## 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:"></img>
 
 <!--Introduction -->
 <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="20%" align="left"></img>
