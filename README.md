@@ -65,12 +65,14 @@
 <!-- Swarup's Quote -->
 ## ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝: ##
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="mind_blown.gif" width="150" align="right"></img>
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="mind_blown.gif" width="120" align="right"></img>
 **Programming a programmable program(AI) to make programs, makes you a program to make programmable programs.**
 <br /><i>Is this a loop or hierarchy? think out of the matrix!</i>
 
+
 <br />
-## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
+## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 ##
 ![Metrics](https://metrics.lecoq.io/swarvar?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FMumbai)
 
 <h3 align="center"> 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚅𝚒𝚜𝚒𝚝𝚒𝚗𝚐! :v:</h3>
