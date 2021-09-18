@@ -34,6 +34,7 @@
 * 𝚂𝚘𝚖𝚎 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 * 𝚂𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚏𝚘𝚛 𝚠𝚘𝚛𝚔
 
+<br />
 <!-- GitHub README Stats -->
 <p align="center">
 <a href="https://gitstats.me/swarvar" align="right">
@@ -68,6 +69,7 @@
 **Programming a programmable program(AI) to make programs, makes you a program to make programmable programs.**
 <br /><i>Is this a loop or hierarchy? think out of the matrix!</i>
 
+<br />
 ## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/swarvar?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FMumbai)
 
