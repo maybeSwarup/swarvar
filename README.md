@@ -46,9 +46,9 @@
 <table border=2>
 <tr><td>
 <!-- icons -->
-<code><a target="_blank" href = "https://www.java.com/en/"><img height="" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg" width="40" alt="Java" /></a></code>
+<code><a target="_blank" href = "https://www.java.com/en/"><img height="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40" alt="Java" /></a></code>
 <code><a target="_blank" href = "isocpp.org"><img height="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png?raw=true" alt="C++" /></a></code>
-<code><a target="_blank" href = "python.org"><img height="40" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png?raw=true" alt="python" /></a></code>
+<code><a target="_blank" href = "python.org"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></a></code>
 <code><a target="_blank" href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" /></a></code>
 <code><a target="_blank" href = "https://angular.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular"></a></code>
 <code><a target="_blank" href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="VanillaJS" /></a></code>
