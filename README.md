@@ -1,8 +1,8 @@
 ## 𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:"></img> 
 <!--Introduction -->
 <img src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif" alt="thinking_emoji.gif" width="20%" align="left"></img>
-𝙸'𝚖 𝚂𝚠𝚊𝚛𝚞𝚙, a𝚗 **𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30"></img>, **𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚐𝚛𝚎𝚊𝚝 𝚞𝚜𝚎𝚛 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜** <img src="https://media.giphy.com/media/aJpQEYoD8yLE4/giphy.gif" width="30"></img>. 𝙻𝚒𝚔𝚎𝚜 𝚝𝚘 𝚍𝚘 𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚝𝚘 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚘𝚗 𝚛𝚎𝚊𝚕 𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚗𝚍 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝 𝚝𝚑𝚎𝚖 𝚒𝚗 𝚞𝚜𝚎𝚛 𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚠𝚊𝚢𝚜, 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚞𝚜𝚎𝚛 𝚜𝚊𝚝𝚒𝚜𝚏𝚊𝚌𝚝𝚒𝚘𝚗 𝚒𝚜 𝚖𝚘𝚜𝚝 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝!
-
+𝙸'𝚖 𝚂𝚠𝚊𝚛𝚞𝚙, a𝚗 **𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛**.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="typing.gif" width="30"></img>
+**𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚐𝚛𝚎𝚊𝚝 𝚞𝚜𝚎𝚛 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜** <img src="https://media.giphy.com/media/aJpQEYoD8yLE4/giphy.gif" width="30"></img>. 𝙻𝚒𝚔𝚎𝚜 𝚝𝚘 𝚍𝚘 𝚌𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚝𝚘 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚘𝚗 𝚛𝚎𝚊𝚕 𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚗𝚍 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝 𝚝𝚑𝚎𝚖 𝚒𝚗 𝚞𝚜𝚎𝚛 𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚠𝚊𝚢𝚜, 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝚞𝚜𝚎𝚛 𝚜𝚊𝚝𝚒𝚜𝚏𝚊𝚌𝚝𝚒𝚘𝚗 𝚒𝚜 𝚖𝚘𝚜𝚝 𝚒𝚖𝚙𝚘𝚛𝚝𝚊𝚗𝚝!
 𝙳𝚘 <img src="https://media.giphy.com/media/d6LGN6MbTXEQ9ZE9u3/giphy.gif" width="20"></img> 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚒𝚏 𝚢𝚘𝚞 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚋𝚛𝚒𝚗𝚐 𝚊 𝚜𝚖𝚒𝚕𝚎 𝚘𝚗 𝚖𝚢 𝚏𝚊𝚌𝚎 :slightly_smiling_face:.
 
 ---
@@ -37,7 +37,7 @@
 <br />
 <!-- GitHub README Stats -->
 <p align="center">
-<a href="https://gitstats.me/swarvar" align="right">
+<a target="_blank" href="https://gitstats.me/swarvar" align="right">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swarvar&show_icons=true&theme=dracula&include_all_commits=true"  alt="Swarup's github stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarvar&theme=onedark" /></a>
 </p>
@@ -46,19 +46,20 @@
 <table border=2>
 <tr><td>
 <!-- icons -->
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" /></a></code>
-<code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" /></a></code>
- <!-- Web Development -->
-<code><a href = "https://angular.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="VanillaJS" /></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" /></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" /></a></code>
-<!-- Integrated Development Environment -->
- <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a></code>
- <code><a href = "https://developer.android.com/studio"><img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a></code>
-<!-- Database -->
-<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Google Firbase"></a></code>
-<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></a></code>
+<code><a target="_blank" href = "https://www.java.com/en/"><img height="" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg" width="40" alt="Java" /></a></code>
+<code><a target="_blank" href = "isocpp.org"><img height="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png?raw=true" alt="C++" /></a></code>
+<code><a target="_blank" href = "python.org"><img height="40" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png?raw=true" alt="python" /></a></code>
+<code><a target="_blank" href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" /></a></code>
+<code><a target="_blank" href = "https://angular.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular"></a></code>
+<code><a target="_blank" href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="VanillaJS" /></a></code>
+<code><a target="_blank" href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" /></a></code>
+<code><a target="_blank" href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" /></a></code>
+<code><a target="_blank" href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a></code>
+<code><a target="_blank" href = "https://developer.android.com/studio"><img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a></code>
+ <code><a target="_blank" href = "cloud.google.com"><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v0492b3db79b8927fe2347ea2dc87c471b22f173331622ffd10334837d43ea37f/cloud/images/favicons/onecloud/apple-icon.png" alt="gcp"></a></code>
+<code><a target="_blank" href = "azure.microsoft.com"><img height="40" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure"></a></code>
+<code><a target="_blank" href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Google Firbase"></a></code>
+<code><a target="_blank" href = "https://www.w3schools.com/sql/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></a></code>
 </td>
 </tr></table>
 
