@@ -1,4 +1,4 @@
-##𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:"></img>
+##𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚!## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:"></img>
 
 <!--Introduction -->
 <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="20%" align="left"></img>
@@ -42,7 +42,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarvar&theme=onedark" /></a>
 </p>
 
-### 🛠️ 𝚂𝚔𝚒𝚕𝚕𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜: ###
+### 🛠️ 𝕊𝕜𝕚𝕝𝕝𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤: ###
 <table border=2>
 <tr><td>
 <!-- icons -->
@@ -63,11 +63,11 @@
 </tr></table>
 
 <!-- Swarup's Quote -->
-## ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝: ##
+## ⚡ Ⓕⓤⓝ Ⓕⓐⓒⓣ: ##
 
 <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="mind_blown.gif" width="120" align="right"></img>
-**𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚊 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚊𝚋𝚕𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖(𝙰𝙸) 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚜, 𝚖𝚊𝚔𝚎𝚜 𝚢𝚘𝚞 𝚊 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚊𝚋𝚕𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚜.**
-<br /><i>Is this a loop or hierarchy? think out of the matrix!</i>
+𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙖 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙖𝙗𝙡𝙚 𝙥𝙧𝙤𝙜𝙧𝙖𝙢(𝙡𝙞𝙠𝙚 𝘼𝙄) 𝙩𝙤 𝙢𝙖𝙠𝙚 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙨, 𝙢𝙖𝙠𝙚𝙨 𝙮𝙤𝙪 𝙖 𝙥𝙧𝙤𝙜𝙧𝙖𝙢 𝙩𝙤 𝙢𝙖𝙠𝙚 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙖𝙡𝙚 𝙥𝙧𝙤𝙜𝙧𝙖𝙢.
+<br />𝘐𝘴 𝘵𝘩𝘪𝘴 𝘢 𝘭𝘰𝘰𝘱 𝘰𝘳 𝘩𝘪𝘦𝘳𝘢𝘳𝘤𝘩𝘺? 𝘵𝘩𝘪𝘯𝘬 𝘰𝘶𝘵 𝘰𝘧 𝘵𝘩𝘦 𝘮𝘢𝘵𝘳𝘪𝘹!
 
 
 <br />
