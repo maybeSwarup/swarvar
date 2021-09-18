@@ -1,4 +1,4 @@
-<!--  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:"></img>
+##𝙃𝙚𝙡𝙡𝙤 𝙩𝙝𝙚𝙧𝙚! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt=":wave:"></img>
 
 <!--Introduction -->
 <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" alt="thinking_emoji.gif" width="20%" align="left"></img>
@@ -7,7 +7,7 @@
 𝙳𝚘 :star2: 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚒𝚏 𝚢𝚘𝚞 𝚏𝚒𝚗𝚍 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚋𝚛𝚒𝚗𝚐 𝚊 𝚜𝚖𝚒𝚕𝚎 𝚘𝚗 𝚖𝚢 𝚏𝚊𝚌𝚎 :slightly_smiling_face:.
 
 
-<p align=center>🤝 <b>I like connecting with different people</b> to know their perspectives and learn from them. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30"></img></p>
+<p align=center>🤝 <b>𝑰 𝒍𝒊𝒌𝒆 𝒄𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕 𝒑𝒆𝒐𝒑𝒍𝒆</b> 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒕𝒉𝒆𝒊𝒓 𝒑𝒆𝒓𝒔𝒑𝒆𝒄𝒕𝒊𝒗𝒆𝒔 𝒂𝒏𝒅 𝒍𝒆𝒂𝒓𝒏 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆𝒎. <img src="https://media.giphy.com/media/XZcwMvQLRf9aXRa3qW/giphy.gif" alt="bulb.gif" width="30"></img></p>
 
 
 <!-- GIFS 
@@ -17,7 +17,7 @@
 -->
 
 <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" alt="bugs.gif" width="150" align="right"></img>
-### 𝙼𝚢 𝚂𝚘𝚌𝚒𝚊𝚕𝚜: ###
+### 𝕄𝕪 𝕊𝕠𝕔𝕚𝕒𝕝𝕤: ###
 <!-- My badges -->
 [![Linkedin](https://img.shields.io/badge/-swarupsuryawanshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swarup-suryawanshi)
 [![Gmail](https://img.shields.io/badge/-suryawanshiswarup-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=suryawanshiswarup@gmail.com)
@@ -28,7 +28,7 @@
 [![Github](https://img.shields.io/badge/-swarvar-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/swarvar) ![views](https://komarev.com/ghpvc/?username=swarvar&style=flat)
 
 <!-- current status -->
-###  𝚃𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐: ###
+###  𝕋𝕙𝕚𝕟𝕘𝕤 𝕥𝕙𝕒𝕥 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕕𝕠𝕚𝕟𝕘: ###
 * 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 * 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚢 𝚗𝚎𝚝𝚠𝚘𝚛𝚔
 * 𝚂𝚘𝚖𝚎 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
@@ -66,7 +66,7 @@
 ## ⚡ 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝: ##
 
 <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="mind_blown.gif" width="120" align="right"></img>
-**Programming a programmable program(AI) to make programs, makes you a program to make programmable programs.**
+**𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚊 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚊𝚋𝚕𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖(𝙰𝙸) 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚜, 𝚖𝚊𝚔𝚎𝚜 𝚢𝚘𝚞 𝚊 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚊𝚋𝚕𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚜.**
 <br /><i>Is this a loop or hierarchy? think out of the matrix!</i>
 
 
