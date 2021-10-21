@@ -22,11 +22,11 @@
 <!-- My badges -->
 [![Gmail](https://img.shields.io/badge/-suryawanshiswarup@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=suryawanshiswarup@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-swarup--suryawanshi-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swarup-suryawanshi)
-[![CodePen](https://img.shields.io/badge/-swarvar-black?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/swarvar/pens/public)
+[![CodePen](https://img.shields.io/badge/-swarup-s-black?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/swarup-s/pens/public)
 [![HackerRank](https://img.shields.io/badge/-Swarup__S-brightgreen?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Swarup_S)
 [![Medium](https://img.shields.io/badge/-@suryawanshiswarup-black?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@suryawanshiswarup)
 <!-- Profile View Count and GitStats -->
-[![Github](https://img.shields.io/badge/-swarvar-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/swarvar) ![views](https://komarev.com/ghpvc/?username=swarvar&style=flat)
+[![Github](https://img.shields.io/badge/-swarup-s-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/swarup-s) ![views](https://komarev.com/ghpvc/?username=swarup-s&style=flat)
 
 <!-- current status -->
 ###  𝕋𝕙𝕚𝕟𝕘𝕤 𝕥𝕙𝕒𝕥 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕕𝕠𝕚𝕟𝕘: ###
@@ -38,9 +38,9 @@
 <br />
 <!-- GitHub README Stats -->
 <p align="center">
-<a target="_blank" href="https://gitstats.me/swarvar" align="right">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swarvar&show_icons=true&theme=dracula&include_all_commits=true"  alt="Swarup's github stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarvar&theme=onedark" /></a>
+<a target="_blank" href="https://gitstats.me/swarup-s" align="right">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swarup-s&show_icons=true&theme=dracula&include_all_commits=true"  alt="Swarup's github stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarup-s&theme=onedark" /></a>
 </p>
 
 ### 🛠️ 𝕊𝕜𝕚𝕝𝕝𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤: ###
@@ -74,6 +74,6 @@
 <br />
 
 ## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 ##
-![Metrics](https://metrics.lecoq.io/swarvar?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FMumbai)
+![Metrics](https://metrics.lecoq.io/swarup-s?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FMumbai)
 
 <h3 align="center"> 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚅𝚒𝚜𝚒𝚝𝚒𝚗𝚐! :v:</h3>
