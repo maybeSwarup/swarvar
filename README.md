@@ -38,9 +38,9 @@
 <br />
 <!-- GitHub README Stats -->
 <p align="center">
-<a target="_blank" href="https://gitstats.me/swarup-s" align="right">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swarup-s&show_icons=true&theme=dracula&include_all_commits=true"  alt="Swarup's github stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarup-s&theme=onedark" /></a>
+<a target="_blank" href="https://gitstats.me/swarvar" align="right">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swarvar&show_icons=true&theme=dracula&include_all_commits=true"  alt="Swarup's github stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarvar&theme=onedark" /></a>
 </p>
 
 ### 🛠️ 𝕊𝕜𝕚𝕝𝕝𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤: ###
@@ -74,6 +74,6 @@
 <br />
 
 ## 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 ##
-![Metrics](https://metrics.lecoq.io/swarup-s?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FMumbai)
+![Metrics](https://metrics.lecoq.io/swarvar?template=classic&base.header=0&gists=1&lines=1&config.timezone=India%2FMumbai)
 
 <h3 align="center"> 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚅𝚒𝚜𝚒𝚝𝚒𝚗𝚐! :v:</h3>
