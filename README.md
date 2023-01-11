@@ -4,7 +4,7 @@ Hi 👋 My name is Swarup
 Fullstack Developer
 -------------------
 
-I'm a hardcore programmer and a developer, I like to solve problems with my coding skills and build smooth running apps that give great user experiences.
+I'm a hardcore programmer before a developer, I like to solve problems with my coding skills and build smooth running apps that give great user experiences.
 
 * 🌍  I'm based in Pune, MH INDIA
 * 🖥️  See my portfolio at [Swarup's Portfolio](http://swarup-portfolio.netlify.app)
