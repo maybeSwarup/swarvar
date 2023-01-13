@@ -49,10 +49,10 @@ I'm a hardcore programmer before a developer, I like to solve problems with my c
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/swarvar"><img src="https://github-readme-stats.vercel.app/api?username=swarvar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="swarvar's GitHub stats" /></a>
+<a href="http://www.github.com/swarvar"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swarvar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="swarvar's GitHub stats" /></a>
 
 <a href="http://www.github.com/swarvar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swarvar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/swarvar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=swarvar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/swarvar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarvar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/swarvar" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swarvar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
