@@ -9,8 +9,8 @@ I'm a hardcore programmer before a developer, I like to solve problems with my c
 * 🌍  I'm based in Pune, MH INDIA
 * 🖥️  See my portfolio at [Swarup's Portfolio](http://swarup-portfolio.netlify.app)
 * ✉️  You can contact me at [coderswarup@gmail.com](mailto:coderswarup@gmail.com)
-* 🧠  I'm learning TypeScript and Java
-* 🤝  I'm open to collaborating on MERN Stack, TypeScript, Java Spring Boot projects.
+* 🧠  I'm learning TypeScript and Rust
+* 🤝  I'm open to collaborating on MERN Stack, TypeScript, Rust projects.
 * ⚡  I'm secretly a real-life superhero but.... don't tell anyone 🤫
 
 ### Skills
@@ -33,11 +33,8 @@ I'm a hardcore programmer before a developer, I like to solve problems with my c
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
